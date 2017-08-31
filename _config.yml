@@ -63,8 +63,8 @@ pagination_dir: page  #分页文件夹名称
 # Extensions  扩展
 ## Plugins: https://hexo.io/plugins/  #插件
  plugins:
-   hexo-generator-feed #RSS订阅插件
-   hexo-generator-sitemap  #sitemap插件
+#   hexo-generator-feed #RSS订阅插件
+#   hexo-generator-sitemap  #sitemap插件
 
 #sitemap rss订阅插件，添加配置信息
  #sitemap:
