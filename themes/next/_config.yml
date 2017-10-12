@@ -80,14 +80,14 @@ index_with_subtitle: false
 # Value before `||` delimeter is the target link.
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, question icon will be loaded.
 menu:
-  home: / 
-  #about: /about/ || user
-  tags: /tags/ 
-  #categories: /categories/ || th
-  archives: /archives/ 
+  home: /  #主页
+  #about: /about #关于页面(需手动创建)
+  tags: /tags/  #标签页(需手动创建)
+  #categories: /categories/ || th  #分类页(需手动创建)
+  archives: /archives   #归档页
   #schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap
-  #commonweal: /404/ || heartbeat
+  #commonweal: /404/ || heartbeat #公益404(需手动创建)
 
 # Enable/Disable menu icons.
 menu_icons:
@@ -139,9 +139,9 @@ social_icons:
   #Title: http://example.com/
 
 # Sidebar Avatar
-# in theme directory(source/images): /images/avatar.gif
-# in site  directory(source/uploads): /uploads/avatar.gif
-#avatar: /images/avatar.gif
+# in theme directory(source/images): /images/avatar.jpg
+# in site  directory(source/uploads): /uploads/avatar.jpg
+avatar: /images/avatar.jpg
 
 # Table Of Contents in the Sidebar
 toc:
