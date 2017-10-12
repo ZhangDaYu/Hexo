@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  <subtitle>网站副标题</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2017-10-12T01:41:55.289Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>zhangdayu</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>myfirstbloglalalala</title>
+    <link href="http://yoursite.com/2017/10/12/myfirstblog/"/>
+    <id>http://yoursite.com/2017/10/12/myfirstblog/</id>
+    <published>2017-10-12T01:39:13.000Z</published>
+    <updated>2017-10-12T01:41:55.289Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://yoursite.com/2017/08/31/hhh/"/>
+    <id>http://yoursite.com/2017/08/31/hhh/</id>
+    <published>2017-08-31T03:22:49.485Z</published>
+    <updated>2017-08-31T03:22:49.485Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>aaa</title>
+    <link href="http://yoursite.com/2017/04/18/aaa/"/>
+    <id>http://yoursite.com/2017/04/18/aaa/</id>
+    <published>2017-04-18T02:02:14.000Z</published>
+    <updated>2017-08-31T03:12:33.178Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>aaa</title>
+    <link href="http://yoursite.com/2017/04/18/bbb/"/>
+    <id>http://yoursite.com/2017/04/18/bbb/</id>
+    <published>2017-04-18T02:02:14.000Z</published>
+    <updated>2017-08-31T03:12:33.180Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>lalalala</title>
+    <link href="http://yoursite.com/2017/04/18/title/"/>
+    <id>http://yoursite.com/2017/04/18/title/</id>
+    <published>2017-04-18T01:50:02.000Z</published>
+    <updated>2017-10-12T01:38:33.395Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>hexo命令缩写</strong></p>
+<ul>
+<li><strong>hexo g</strong>：hexo generate</li>
+<li><strong>hexo c</strong>：hexo clean</li>
+<li><strong>hexo s</strong>：hexo server</li>
+<li><strong>hexo d</strong>：hexo deploy</li>
+</ul>
+<p><strong>hexo命令组合</strong></p>
+<p>hexo clean &amp;&amp; hexo g -s，就是清除、生成、启动</p>
+<p>hexo clean &amp;&amp; hexo g -s，就是清除、生成、启动<br>hexo clean &amp;&amp; hexo g -d，就是清除、生成、部署</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;hexo命令缩写&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;hexo g&lt;/strong&gt;：hexo generate&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;hexo c&lt;/strong&gt;：hexo clean&lt;/li&gt;
+&lt;li&gt;&lt;strong
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>

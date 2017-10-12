@@ -72,7 +72,7 @@ pagination_dir: page  #分页文件夹名称
  
  
 ## Themes: https://hexo.io/themes/  #主题
-theme: jacman  #主题名称
+theme: next  #主题名称
 
 # Deployment 部署
 ## Docs: https://hexo.io/docs/deployment.html
