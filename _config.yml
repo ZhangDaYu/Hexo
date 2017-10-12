@@ -7,8 +7,8 @@ title: Yuuu #网站标题
 subtitle: 网站副标题 #网站副标题
 description: 每天积累一点点 #网站描述
 author: zhangdayu #你的描述
-language:zh-Hans
-timezone:
+language: zh-Hans
+timezone: UTC 
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
